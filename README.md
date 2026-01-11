@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏝️ The Next Wild Oasis
 
-## Getting Started
+**The Next Wild Oasis** is a full-stack web application built with **Next.js** as part of
+**The Ultimate React Course** by **Jonas Schmedtmann** on Udemy.
+The project focuses on building a production-ready app using modern React, Next.js, and authentication best practices.
 
-First, run the development server:
+---
+
+## ✨ Features
+
+• Admin dashboard for managing cabins
+• Full CRUD operations (Create, Read, Update, Delete)
+• Authentication & protected routes using **NextAuth.js**
+• Session-based auth & route protection
+• Server-side rendering (SSR) & static generation
+• Dark / Light mode
+• Fully responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+• Next.js
+• React
+• NextAuth.js
+• React Query
+• Styled Components
+• Supabase (Database & Backend services)
+
+---
+
+## 🔐 Authentication
+
+Authentication is handled using **NextAuth.js**, providing:
+• Secure session management
+• Protected routes
+• Easy integration with backend services
+
+---
+
+## 🎯 What I Learned
+
+• Building full-stack apps with Next.js
+• Implementing authentication with NextAuth.js
+• Protecting routes and managing user sessions
+• Managing server state with React Query
+• Creating scalable and reusable components
+
+---
+
+## 📦 Installation
 
 ```bash
+git clone https://github.com/your-username/the-next-wild-oasis.git
+cd the-next-wild-oasis
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📚 Course Reference
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project was built for learning purposes as part of
+**The Ultimate React Course** by Jonas Schmedtmann
+and is not intended for commercial use.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🙌 Acknowledgment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Special thanks to **Jonas Schmedtmann** for the amazing course and practical approach.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👩‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Rokaya Nasr Abbas**
+Frontend Developer
